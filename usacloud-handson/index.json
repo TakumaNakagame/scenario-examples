@@ -4,16 +4,16 @@
     "details": {
         "intro": {
             "text": "intro.md"
+        },
+        "steps": [
+            {
+                "title": "Usacloudをインストール",
+                "text": "step1/text.md"
+            }
+        ],
+        "finish": {
+            "text": "finish.md"
         }
-    },
-    "steps": [
-        {
-            "title": "Usacloudをインストール",
-            "text": "step1/text.md"
-        }
-    ],
-    "finish": {
-        "text": "finish.md"
     },
     "backend": {
         "imageid": "ubuntu"
